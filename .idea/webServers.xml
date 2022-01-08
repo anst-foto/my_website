@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="433d0dd1-2a52-4da1-a9ce-adc3ea2069a7" name="hostland - старинин.рф" url="http://старинин.рф">
+        <fileTransfer rootFolder="/xn--80aqatbofi.xn--p1ai/htdocs/www" host="ftp60.hostland.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
